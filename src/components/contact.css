@@ -1,0 +1,28 @@
+.contactlist {
+  margin: 10px;
+}
+.address input {
+  width: 120px !important;
+}
+input {
+  width: 600px !important;
+  height: 100%;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-size: 1.5rem;
+}
+.actions {
+  display: flex;
+}
+span {
+  color: red;
+  position: relative;
+}
+.contacts {
+  display: grid;
+}
+.datas {
+  position: absolute;
+  left: 150px;
+}

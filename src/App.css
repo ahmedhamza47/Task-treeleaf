@@ -1,0 +1,28 @@
+.address-input {
+  width: 50px !important;
+}
+.container-fluid {
+  width: 70%;
+}
+
+td {
+  margin: 0px;
+}
+
+.bg-color {
+  background-color: rgb(217, 139, 108);
+}
+.bg-colors {
+  height: 100%;
+  background-color: rgb(217, 139, 108);
+}
+.height {
+  height: 67vh;
+}
+.navbar {
+  background-color: black !important;
+  font-family: "Kanit", sans-serif;
+}
+table {
+  background-color: white;
+}
